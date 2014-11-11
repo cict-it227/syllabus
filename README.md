@@ -24,7 +24,7 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 ### Instructor
 
-* The following statements were taken from [Advanced JS](https://github.com/advanced-js/syllabus)
+* The following statements were taken from [Advanced JS](https://github.com/advanced-js/syllabus).
 Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 
 ### Reminders
