@@ -18,7 +18,7 @@ Computers are provided in the lab but have plenty of limitations especially when
 
 ### Blender Game Engine Programming
 * Basic knowledge of 3D modeling and animation.
-* Basic to advance knowledge of
+* Basic to advance knowledge of Python programming.
 
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
 
