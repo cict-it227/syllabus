@@ -2,6 +2,7 @@
 
 * **Course:** [IT 227, WVSU IICT](http://wvsu.edu.ph)
 * **Instructor:** Mark Joseph J. Solidarios, [mjsolidarios@wvsu.edu.ph](mjsolidarios@wvsu.edu.ph)
+* Take note that this is still a work in progress. More updates for the syllabus will be posted soon.
 
 ## Course Description
 
