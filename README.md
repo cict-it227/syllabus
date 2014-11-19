@@ -6,7 +6,7 @@
 
 ## Course Description
 
-Learn the basics and the best practices in cross platform game programming. Topics include HTML5, CSS3 and JavaScript programming, use of different HTML5 game engines and JavaScript libraries, basic 2D and 3D game design concepts, version control, game programming in Blender and strategies in marketing your game.
+Learn the basics and the best practices in cross platform game programming. Topics include Basics of Game Design, Artificial Intelligence, HTML5, CSS3 and JavaScript programming, use of different HTML5 game engines and JavaScript libraries, basic 2D and 3D game design concepts, version control, game programming in Blender and strategies in marketing your game.
 
 Computers are provided in the lab but have plenty of limitations especially when it comes to local or external disks access, network sharing is also prohibited so you are encouraged to bring a laptop for in-class exercises.
 
