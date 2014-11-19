@@ -13,7 +13,7 @@ Computers are provided in the lab but have plenty of limitations especially when
 ## Prerequisites
 
 ### AI Development
-* Basic Knowledge in Kodu Game Lab, Lua or Python
+* Basic Knowledge in Kodu Game Lab, Lua or Python Programming.
 * Knowledge of building and understanding logic bricks.
 
 ### HTML5 Game Programming
