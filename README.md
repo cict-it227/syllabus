@@ -34,4 +34,4 @@ Reuse and building upon ideas or code are major parts of modern software develop
 
 ### Reminders
 * Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
-* Don't forget to check what kind of open source license as source code have. You may want to visit [http://choosealicense.com/](http://choosealicense.com/) for more information.
+* Don't forget to check what kind of open source license as source code have. You may want to visit [choosealicense.com](http://choosealicense.com) for more information.
