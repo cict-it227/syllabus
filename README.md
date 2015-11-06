@@ -1,4 +1,6 @@
-## IT 227 Outcomes-Based Education (OBE) Course Design/Syllabus
+## IT 227 Introduction to Game Programming
+> Outcomes-Based Education (OBE) Course Design/Syllabus
+
 #### University
  * **Vision:** WVSU as one of the top universities in Southeast Asia
  * **Mission:** To produce globally-competitive life-long learners
