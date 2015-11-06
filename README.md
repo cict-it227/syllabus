@@ -83,15 +83,15 @@ Mark Joseph J. Solidarios, [mjsolidarios@wvsu.edu.ph](mjsolidarios@wvsu.edu.ph)
 > Homeworks and projects should be submitted here in GitHub.
 
 If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps:
-1. Fork the assigned repository (Will be announced in class).
-1. Clone your forked repository into your hard drive.
-1. Make some changes to your repository.
-  - Create your working directory named with your full name **[lastname_firstname]** (if group, your names should be separated by a dash).
-  - Copy the contents of the **prefab/boilerplate** into your working directory.
-  - Modify your local repository to comply with the task requirements (TBG - to be given).
-1. When you're satisfied with your output, push your source code to your own repository.
-1. Create a pull request to this repository. If you don't know how, check out [how you can create a pull request on GitHub](https://help.github.com/articles/creating-a-pull-request/).
-1. Your teacher will evaluate your work and merge it to the assigned repository once approved.
+ 1. Fork the assigned repository (Will be announced in class).
+ 1. Clone your forked repository into your hard drive.
+ 1. Make some changes to your repository.
+   - Create your working directory named with your full name **[lastname_firstname]** (if group, your names should be separated by a dash).
+   - Copy the contents of the **prefab/boilerplate** into your working directory.
+   - Modify your local repository to comply with the task requirements (TBG - to be given).
+ 1. When you're satisfied with your output, push your source code to your own repository.
+ 1. Create a pull request to this repository. If you don't know how, check out [how you can create a pull request on GitHub](https://help.github.com/articles/creating-a-pull-request/).
+ 1. Your teacher will evaluate your work and merge it to the assigned repository once approved.
 
 ### Reminders
 * Laboratory workstations have plenty of limitations especially when it comes to local or external disks access, network sharing is also prohibited so you are encouraged to bring your own laptop for in-class exercises and practicals.
