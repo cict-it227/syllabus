@@ -46,7 +46,7 @@ IT 227 Introduction to Game Programming
 #### Course Description
 > This course provides students with an in-depth introduction to technologies and best practices used in the game development industry today.
 
-** Topics include**
+**Topics include**
 * Exploration of open and closed source game engines ([Phaser](http://phaser.io/), [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4), [Unity 3D](http://unity3d.com/), [Godot](http://www.godotengine.org/projects/godot-engine), [jMonkeyEngine](http://jmonkeyengine.org/tour/introduction/) ...etc)
 * Game design and mechanics
 * Game assets and prefabs
