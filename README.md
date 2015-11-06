@@ -98,3 +98,9 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/des
 * Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 * Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 * Don't forget to check what kind of open source license as source code have. You may want to visit [choosealicense.com](http://choosealicense.com) for more information.
+
+Happy coding,
+
+![logo](logo.png "logo")<br>
+**mjsolidarios**
+<br>part-time-faculty | iictwvsu | ph
