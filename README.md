@@ -113,10 +113,10 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 #### Course Design Matrix
 | Topic | Discussion |
 | ---- | ---- |
-| **Class 1**. The University and Institute | Vision, Mission, Core Values, Outcomes of West Visayas State Univeristy and Institute of Information and Communications Technology
-| **Class 2**. Introduction | Discuss what the class is going to cover, show intro demos, the course requirements and class reminders. <br>**Homework**<br><ul><li>Create a [GitHub account](https://github.com). If you are comfortable with Git already, you can skip this.</li><li>Join the [chat room](https://gitter.im/iict-it227/iict-gamedevs-f1?utm_source=share-link&utm_medium=link&utm_campaign=share-link)</li><li>Install the game engines if you have a Desktop/Laptop computer</li></ul>
-| **Class 3**. Foundations of Game Development | <ul><li>What is a game? <ul><li>History</li><li>Elements</li></ul></li><li>The game design process</li><li>Exploring the game development tools</li>
-
+| **Class 1**. The University and Institute | Vision, Mission, Core Values, Outcomes of West Visayas State Univeristy and Objectives of Institute of Information and Communications Technology
+| **Class 2**. Introduction | Discuss what the class is going to cover, show intro demos, the course requirements and class reminders. <br>**Homework**<br><ul><li>Create a [GitHub account](https://github.com). If you are comfortable with Git already, you can skip this.</li><li>Join the [chat room](https://gitter.im/iict-it227/iict-gamedevs-f1?utm_source=share-link&utm_medium=link&utm_campaign=share-link)</li><li>Install the game engines if you have a Desktop/Laptop computer</li><li>Write your GitHub account **username** and **fullname** on a **1/4 sheet of intermediate pad** and submit it to your teacher next meeting.</li></ul>
+| **Class 3**. Foundations of Game Development | <ul><li>What is a game? <ul><li>History</li><li>Elements</li></ul></li><li>The game design process</li><li>Exploring the game development tools</li><li>2D and 3D game development</li></ul>**Homework**<br><ul><li>[GitHub Practice](https://github.com/iict-it227/students)</li></ul>
+| **Class 4**. Gaming on the Web. | <ul><li>HTML5 game programming using the [Phaser game Engine](http://phaser.io/).</li><li>Exploration of HTML5 2D and 3D game demos.</li></ul>**Homework**<br><ul><li>Project "[lupad](https://github.com/iict-it227/homework-rocketship)".</li></ul>
 ***
 
 Happy coding,
