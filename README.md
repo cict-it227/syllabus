@@ -121,7 +121,18 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 | **Class 6**. Game Development with Unity | <ul><li>First look at Unity Game Engine</li><ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Objects</li><li>Running the Build Process</li></li></ul><li>Programming<ul><li>Implementing Artificial Intelligence in Unity</li><li>C# using MonoDevelop for Unity</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul></ul>**Homework**<br><ul><li>Multiplayer Flying Shooter  Game (Group work).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
 
 ***
+## Resources
+### Recommended Reading
+> In random order.
 
+* [Game Design Concepts](learn.canvas.net) by Sebastian Sohn
+* [Learn Phaser](http://phaser.io/learn) - tutorials and resources
+* [Forest Map in UE4](http://www.eteknix.com/great-looking-forest-map-made-ue-4-dice-artist/) by a DICE Artist
+* [3D Modeling in Games](http://gamedevelopment.tutsplus.com/articles/3d-primer-for-game-developers-an-overview-of-3d-modeling-in-games--gamedev-5704) - very usefull for optimizing your 3D games
+* [Game Mechanic Explorer](gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
+* [Good Game GUI Design](http://www.doolwind.com/blog/good-game-gui-design/) by Doolwind
+* [Probability and Games: Damage Rolls](http://www.redblobgames.com/articles/probability/damage-rolls.html) - techniques to calculate damage and other attributes modifications
+***
 Happy coding,
 
 ![logo](logo.png "logo")<br>
