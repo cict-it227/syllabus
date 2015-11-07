@@ -132,7 +132,9 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 * [Game Mechanic Explorer](gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
 * [Good Game GUI Design](http://www.doolwind.com/blog/good-game-gui-design/) by Doolwind
 * [Probability and Games: Damage Rolls](http://www.redblobgames.com/articles/probability/damage-rolls.html) - techniques to calculate damage and other attributes modifications
+
 ***
+
 Happy coding,
 
 ![logo](logo.png "logo")<br>
