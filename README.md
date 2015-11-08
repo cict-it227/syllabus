@@ -133,6 +133,20 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 * [Good Game GUI Design](http://www.doolwind.com/blog/good-game-gui-design/) by Doolwind
 * [Probability and Games: Damage Rolls](http://www.redblobgames.com/articles/probability/damage-rolls.html) - techniques to calculate damage and other attributes modifications
 
+### Interesting Forks
+> Feel free to clone and learn from these repositories.
+
+* [Action RPG Game](https://github.com/iniside/ActionRPGGame) - Unreal Engine 4 Action RPG type game starter kit.
+* [TD Godot Games](https://github.com/TutorialDoctor/TD-Godot-Games) - A collection of games made with the Godot game engine.
+* [Phaser Menu System](https://github.com/MattMcFarland/phaser-menu-system) - Boilerplate menu system for phaser.io - credits screen, main menu, options screen, preloader, game over screen.
+* [Ocean Project](https://github.com/UE4-OceanProject/OceanProject) - An Ocean Simulation project for Unreal Engine 4.
+* [Epic Survival Game Series](https://github.com/tomlooman/EpicSurvivalGameSeries) - Third person survival game (tutorial) series for Unreal Engine 4.
+* [EasyAI](https://github.com/Zulko/easyAI) - imple Python artificial intelligence framework for games.
+* [MiniMOBA](https://github.com/erickpassos/MiniMOBA) - Mini MOBA complete project for the Unity 3D game engine.
+* [Snake AI](https://github.com/Hawstein/snake-ai) - A snake AI written in python.
+* [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
+* [AI Core](https://github.com/idmillington/aicore) - The artificial intelligence code accompanying the book "Artificial Intelligence for Games".
+
 ***
 
 Happy coding,
