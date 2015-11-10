@@ -47,11 +47,11 @@ IT 227 Introduction to Game Programming
 2015-2016 | Second | Monday, 3:00 PM - 4:00 PM; Wednesday, 4:00 PM - 6:00 PM.
 
 #### Course Description
-> This course provides students with an in-depth introduction to technologies and best practices used in the game development industry today.
+> This course provides students with an in-depth introduction to technologies and best practices used in the game development industry today and is focused on rapidly developing game prototypes.
 
 **Topics include**
 * Game Development History
-* Exploration of open and closed source game engines ([Phaser](http://phaser.io/), [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4), [Unity 3D](http://unity3d.com/), [Godot](http://www.godotengine.org/projects/godot-engine), [jMonkeyEngine](http://jmonkeyengine.org/tour/introduction/) ...etc)
+* Exploration of open and closed source game engines ([Phaser](http://phaser.io/), [Blender Game Engine](http://blender.org/), [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4), [Unity 3D](http://unity3d.com/), [Godot](http://www.godotengine.org/projects/godot-engine), [jMonkeyEngine](http://jmonkeyengine.org/tour/introduction/) ...etc)
 * Game design and mechanics
 * Game assets and prefabs
 * World/Level Design
@@ -117,9 +117,33 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 | **Class 2**. Introduction | Discuss what the class is going to cover, show intro demos, the course requirements and class reminders.<br> <br>**Homework**<br><ul><li>Create a [GitHub account](https://github.com). If you are comfortable with Git already, you can skip this.</li><li>Join the [chat room](https://gitter.im/iict-it227/iict-gamedevs-f1?utm_source=share-link&utm_medium=link&utm_campaign=share-link)</li><li>Install the game engines if you have a Desktop/Laptop computer</li><li>Write your GitHub account **username** and **fullname** on a **1/4 sheet of intermediate pad** and submit it to your teacher next meeting.</li></ul>
 | **Class 3**. Foundations of Game Development | <ul><li>What is a game? <ul><li>History</li><li>Elements</li></ul></li><li>The Game Design Process<ul><li>Gameplay and Mechanics</li><li>Pitch Document</li></ul></li><li>Exploring the game development tools</li><li>2D and 3D game development</li><li>Artificial Intelligence for Games</li></ul>**Homework**<br><ul><li>[GitHub practice](https://github.com/iict-it227/students)</li></ul>
 | **Class 4**. Gaming on the Web. | <ul><li>HTML5 game programming using the [Phaser Game Engine](http://phaser.io/).</li><li>Exploration of HTML5 2D and 3D game demos.</li></ul>**Homework**<br><ul><li>Project "[lupad](https://github.com/iict-it227/homework-rocketship)".</li></ul>
-| **Class 5**. Game Development using Unreal Game Engine | <ul><li>Unreal Engine 4 Basics.<ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Actors</li><li>Running the Build Process</li></ul></li><li>Programming<ul><li>Implementing Artificial Intelligence in UE4</li><li>Blueprints and Visual Scripting</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul>**Homework**<br><ul><li>Third Person Horror  Game (Group work).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
-| **Class 6**. Game Development with Unity | <ul><li>First look at Unity Game Engine</li><ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Objects</li><li>Running the Build Process</li></li></ul><li>Programming<ul><li>Implementing Artificial Intelligence in Unity</li><li>C# using MonoDevelop for Unity</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul></ul>**Homework**<br><ul><li>Multiplayer Flying Shooter  Game (Group work).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
+| **Class 5**. It's FOSS - Free and Open-Source Software for Games | <ul><li>Blender Game Engine<ul><li>Blender Game Engine Overview</li><li>Logic Bricks</li><li>Animation</li><li>Graphics</li><li>Physics</li><li>Python Scripting</li></ul></li><li>Godot Game Engine<ul><li>Godot Game Engine Overview</li><li>Scenes and Nodes</li><li>Scripting</li><li>Animation</li></ul></li></ul>**Homework**<br><ul><li>Your First 3D  Game (By Pair).</li></ul>
+| **Class 6**. Game Development using Unreal Game Engine | <ul><li>Unreal Engine 4 Basics.<ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Actors</li><li>Running the Build Process</li></ul></li><li>Programming<ul><li>Implementing Artificial Intelligence in UE4</li><li>Blueprints and Visual Scripting</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul>**Homework**<br><ul><li>Third Person Horror  Game (Group work).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
+| **Class 7**. Game Development with Unity | <ul><li>First look at Unity Game Engine</li><ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Objects</li><li>Running the Build Process</li></li></ul><li>Programming<ul><li>Implementing Artificial Intelligence in Unity</li><li>C# using MonoDevelop for Unity</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul></ul>**Homework**<br><ul><li>Multiplayer Flying Shooter  Game (Group work).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
 
+#### Grading
+> Midterm
+
+Criteria | %
+---- | :----:
+Homework | 25%
+Laboratory Game Projects | 15%
+Midterm Game Project | 20%
+Midterm Exam | 30%
+Participation | 10%
+
+
+> Finals
+
+Criteria | %
+---- | :----:
+Homework | 25%
+Laboratory Game Projects | 15%
+Finals Game Project | 20%
+Mini-GameDev Seminar | 30%
+Participation | 10%
+
+Final Grade = 50% (midterm) + 50% (tentative)
 ***
 ## Resources
 ### Recommended Reading
@@ -131,7 +155,8 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 * [3D Modeling in Games](http://gamedevelopment.tutsplus.com/articles/3d-primer-for-game-developers-an-overview-of-3d-modeling-in-games--gamedev-5704) - very usefull for optimizing your 3D games
 * [Game Mechanic Explorer](gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
 * [Good Game GUI Design](http://www.doolwind.com/blog/good-game-gui-design/) by Doolwind
-* [Probability and Games: Damage Rolls](http://www.redblobgames.com/articles/probability/damage-rolls.html) - techniques to calculate damage and other attributes modifications
+* [Probability and Games: Damage Rolls](http://www.redblobgames.com/articles/probability/damage-rolls.html) - techniques to calculate damage and other attributes modifications.
+* [blenderreal](http://www.blenderreal.com/) - Blender Game Engine tutorials.
 
 ### Interesting Forks
 > Feel free to clone and learn from these repositories.
