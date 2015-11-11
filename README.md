@@ -169,7 +169,7 @@ Final Grade = 50% (midterm) + 50% (tentative)
 * [Phaser Menu System](https://github.com/MattMcFarland/phaser-menu-system) - Boilerplate menu system for phaser.io - credits screen, main menu, options screen, preloader, game over screen.
 * [Ocean Project](https://github.com/UE4-OceanProject/OceanProject) - An Ocean Simulation project for Unreal Engine 4.
 * [Epic Survival Game Series](https://github.com/tomlooman/EpicSurvivalGameSeries) - Third person survival game (tutorial) series for Unreal Engine 4.
-* [EasyAI](https://github.com/Zulko/easyAI) - imple Python artificial intelligence framework for games.
+* [EasyAI](https://github.com/Zulko/easyAI) - simple Python artificial intelligence framework for games.
 * [MiniMOBA](https://github.com/erickpassos/MiniMOBA) - Mini MOBA complete project for the Unity 3D game engine.
 * [Snake AI](https://github.com/Hawstein/snake-ai) - A snake AI written in python.
 * [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
