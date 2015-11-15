@@ -103,7 +103,9 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
  1. You can continue to push fixes and improvements until the close date (TBA - to be announced) – just add a comment in the pull request to let your teacher know it's been updated.
 
 ### Reminders
-* Laboratory workstations have plenty of limitations especially when it comes to local or external disks access, network sharing is also prohibited so you are encouraged to bring your own Laptop for in-class exercises and practicals.
+* Please observe computer laboratory rules. Rules are posted inside the room.
+* Laboratory workstations have limitations when it comes to local or external disks access, network sharing is also prohibited so please do inform your teacher if you need to transfer your files. A local FTP server is also hosted in class to assist to with file transfer transactions.
+* Always backup your working directory on the FTP server provided by your teacher.
 * Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 * Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 * Don't forget to check what kind of open source license a source code have. You may want to visit [choosealicense.com](http://choosealicense.com) for more information.
