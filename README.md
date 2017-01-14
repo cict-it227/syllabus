@@ -191,4 +191,4 @@ Happy coding,
 
 ![logo](logo.png "logo")<br>
 **mjsolidarios**
-<br>part-time-faculty | cictwvsu | ph
+<br>part-time-faculty | [cictwvsu](http://cictwvsu.com/) | ph
