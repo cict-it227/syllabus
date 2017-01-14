@@ -163,6 +163,7 @@ The CICT Building in Unreal Game Engine integrated with a third person controlle
 * [Game Design Concepts](learn.canvas.net) by Sebastian Sohn
 * [Game Pitches](http://www.gamepitches.com/game-designs/) - repository for video game pitches and design documents.
 * [Learn Phaser](http://phaser.io/learn) - tutorials and resources
+* [UDK 3 Documentation](https://docs.unrealengine.com/udk/Three/WebHome.html) - Official Documentation from Epic Games.
 * [Unreal Engine Tutorials](http://worldofleveldesign.com) - UDK and UE4 tutorials to help you get started.
 * [Forest Map in UE4](http://www.eteknix.com/great-looking-forest-map-made-ue-4-dice-artist/) by a DICE Artist
 * [3D Modeling in Games](http://gamedevelopment.tutsplus.com/articles/3d-primer-for-game-developers-an-overview-of-3d-modeling-in-games--gamedev-5704) - very usefull for optimizing your 3D games
