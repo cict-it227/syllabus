@@ -44,7 +44,7 @@ IT 227 Introduction to Game Programming
 * Prerequisite: IT 203, IT 205
 
 #### School Year | Semester | Schedule
-2015-2016 | Second | Monday, 3:00 PM - 4:00 PM; Wednesday, 4:00 PM - 6:00 PM.
+2017-2018 | Second | Tuesday, 3:00 PM - 4:00 PM; Thursday, 4:00 PM - 6:00 PM.
 
 #### Course Description
 > This course provides students with an in-depth introduction to technologies and best practices used in the game development industry today and is focused on rapidly developing game prototypes.
@@ -69,7 +69,7 @@ Topics will be demonstrated through live-code examples/slides, videos and demos.
 Mark Joseph J. Solidarios, [mjsolidarios@wvsu.edu.ph](mjsolidarios@wvsu.edu.ph)
 
 #### F1: Need Help?
-* [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iict-it227/iict-gamedevs-f1?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+* [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iict-it227/cict-gamedevs-f1?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
  * Feel free to ask a question even if no one's around. **DON'T BE SHY!**
  * Message notifications are still sent to listeners.
  * [Email](mailto:mjsolidarios@wvsu.edu.ph) for 1-on-1 help, or to set up a time to meet your teacher at the faculty office.
@@ -150,12 +150,20 @@ Participation | 10%
 Final Grade = 50% (midterm) + 50% (tentative)
 ***
 ## Resources
+
+### CICT Unreal
+
+The CICT Building in Unreal Game Engine integrated with a third person controller (VR ready). Click [here](https://github.com/wvsu-cict-code/cict-unreal) to open the repository.
+![cictunreal](https://github.com/wvsu-cict-code/cict-unreal/raw/master/snap.png)
+
+
 ### Recommended Reading
 > In random order.
 
 * [Game Design Concepts](learn.canvas.net) by Sebastian Sohn
 * [Game Pitches](http://www.gamepitches.com/game-designs/) - repository for video game pitches and design documents.
 * [Learn Phaser](http://phaser.io/learn) - tutorials and resources
+* [Unreal Engine Tutorials](http://worldofleveldesign.com) - UDK and UE4 tutorials to help you get started.
 * [Forest Map in UE4](http://www.eteknix.com/great-looking-forest-map-made-ue-4-dice-artist/) by a DICE Artist
 * [3D Modeling in Games](http://gamedevelopment.tutsplus.com/articles/3d-primer-for-game-developers-an-overview-of-3d-modeling-in-games--gamedev-5704) - very usefull for optimizing your 3D games
 * [Game Mechanic Explorer](gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
@@ -183,4 +191,4 @@ Happy coding,
 
 ![logo](logo.png "logo")<br>
 **mjsolidarios**
-<br>part-time-faculty | iictwvsu | ph
+<br>part-time-faculty | cictwvsu | ph
